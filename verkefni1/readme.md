@@ -13,3 +13,6 @@ int main() {
   }
 }
 ```
+
+video of robot 
+https://youtu.be/3EHLHCeqCrs
