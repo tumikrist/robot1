@@ -1,4 +1,6 @@
-"""int main() {
+'''
+cpp
+int main() {
   // Initializing Robot Configuration. DO NOT REMOVE!
   vexcodeInit();
   int dist = 500;
@@ -10,4 +12,5 @@
     vex::task::sleep(500);
     dist += 500;
   }
-}"""
+}
+'''
