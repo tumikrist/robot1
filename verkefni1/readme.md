@@ -1,4 +1,4 @@
-
+```
 int main() {
   // Initializing Robot Configuration. DO NOT REMOVE!
   vexcodeInit();
@@ -12,3 +12,4 @@ int main() {
     dist += 500;
   }
 }
+```
