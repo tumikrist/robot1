@@ -1,4 +1,4 @@
-##kóðinn 
+## kóðinn 
 ```cpp
 int main() {
   // Initializing Robot Configuration. DO NOT REMOVE!
@@ -15,7 +15,7 @@ int main() {
 }
 ```
 
-##robot config skrá
+## robot config skrá
 ``` cpp
 #include "vex.h"
 
@@ -46,5 +46,5 @@ void vexcodeInit( void ) {
   // nothing to initialize
 }
 ```
-##video of robot 
+## video of robot 
 https://youtu.be/3EHLHCeqCrs
