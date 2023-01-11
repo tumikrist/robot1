@@ -59,3 +59,5 @@ void vexcodeInit( void ) {
   // nothing to initialize
 }
 ```
+## link á youtube video af robot
+https://youtube.com/shorts/_xBUzjnNfEs
