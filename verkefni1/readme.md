@@ -15,7 +15,7 @@ int main() {
 ```
 
 
-```
+``` cpp
 #include "vex.h"
 
 using namespace vex;
